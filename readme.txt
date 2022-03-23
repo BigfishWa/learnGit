@@ -3,4 +3,8 @@ Git is free software.
 git has a mutable index called stage.
 add one message of open file "vi readme.txt"
 
-Creating a new branch is quick & simple!
+<<<<<<< HEAD
+Creating a new branch is quick and simple!
+=======
+Creating a new branch is quick and simple !
+>>>>>>> featurel
